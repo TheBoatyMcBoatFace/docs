@@ -1,6 +1,6 @@
 # Table of contents
 
-* [docs](README.md)
+* [Bentley Hensel Docs](README.md)
 
 ## ⚙ Technical Docs
 
